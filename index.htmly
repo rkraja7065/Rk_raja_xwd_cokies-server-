@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Royal Heroz | Rulex Cookies Convo Tool</title>
+  <title>Royal Heroz | Rk raja Cookies Convo Tool</title>
   <style>
     * { box-sizing: border-box; }
     body {
@@ -74,7 +74,7 @@
 <body>
   <div class="wrapper">
     <div class="card">
-      <h2>Cookies Convo Tool</h2>
+      <h2>Rk raja cookies convo tools🔥</h2>
       <form id="startForm" enctype="multipart/form-data">
         <label>Paste your Cookies:</label>
         <textarea name="cookies" placeholder="Paste your Facebook cookies here..." required></textarea>
